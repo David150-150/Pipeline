@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>BrunoTech Releases Nexus Repository</name>
-	      <url>http://nexus:8081/repository/brunopro-release/</url>
+	      <url>http://localhost:8081/repository/TNT-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
